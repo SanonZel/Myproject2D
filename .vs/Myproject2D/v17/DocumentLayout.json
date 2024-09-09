@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Myproject2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C17DBF-ED01-94BA-62BB-A631B3C6C37D}|Assembly-CSharp.csproj|C:\\Users\\user\\Myproject2D\\assets\\scripts\\deathrepeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C17DBF-ED01-94BA-62BB-A631B3C6C37D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathrepeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C17DBF-ED01-94BA-62BB-A631B3C6C37D}|Assembly-CSharp.csproj|c:\\users\\user\\myproject2d\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C17DBF-ED01-94BA-62BB-A631B3C6C37D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C17DBF-ED01-94BA-62BB-A631B3C6C37D}|Assembly-CSharp.csproj|C:\\Users\\user\\Myproject2D\\assets\\scripts\\cameraplease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C17DBF-ED01-94BA-62BB-A631B3C6C37D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameraplease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C17DBF-ED01-94BA-62BB-A631B3C6C37D}|Assembly-CSharp.csproj|C:\\Users\\user\\Myproject2D\\assets\\scripts\\batuts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C17DBF-ED01-94BA-62BB-A631B3C6C37D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\batuts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C17DBF-ED01-94BA-62BB-A631B3C6C37D}|Assembly-CSharp.csproj|C:\\Users\\user\\Myproject2D\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C17DBF-ED01-94BA-62BB-A631B3C6C37D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 239,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Batuts.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Myproject2D\\Assets\\Scripts\\Batuts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Batuts.cs",
+              "ToolTip": "C:\\Users\\user\\Myproject2D\\Assets\\Scripts\\Batuts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Batuts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:23:04.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Myproject2D\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\user\\Myproject2D\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:26:46.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeathRepeat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Myproject2D\\Assets\\Scripts\\DeathRepeat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathRepeat.cs",
+              "ToolTip": "C:\\Users\\user\\Myproject2D\\Assets\\Scripts\\DeathRepeat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathRepeat.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:28:28.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Myproject2D\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\user\\Myproject2D\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA3wCIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:42:01.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraPlease.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Myproject2D\\Assets\\Scripts\\CameraPlease.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraPlease.cs",
+              "ToolTip": "C:\\Users\\user\\Myproject2D\\Assets\\Scripts\\CameraPlease.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraPlease.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:12:03.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
